@@ -9,7 +9,8 @@ apt-get install sox libsox-dev
 apt install postgresql libpq-dev
 apt-get install bc
 apt-get install pulseaudio
-apt-get install pavucontrol
+apt-get install python-dev-is-python3
+apt-get install build-essential
 
 echo "Command line Modules installed"
 
